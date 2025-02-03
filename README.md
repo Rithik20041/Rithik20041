@@ -58,7 +58,7 @@
 <img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation" />
 
 <p align="center">
-  <a href="https://leetcode.com/rashmi2004" target="_blank">
+  <a href="https://leetcode.com/rithu9672" target="_blank">
     <img title="rashmi2004's LeetCode Stats" alt="rashmi2004's LeetCode Stats" src="https://leetcard.jacoblin.cool/rithu9672?ext=heatmap" />
   </a>
 </p>
