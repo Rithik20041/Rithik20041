@@ -1,84 +1,60 @@
-# Konichiwa 👋
+<h2 align="left">Hi 👋! My name is Rithik Chandrasekar and I'm a Passionate Machine Learning Engineer, from Kerala</h2>
+
+###
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rithik20041&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithik20041&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-</br>
-</br>
-</br>
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-# About ME 💬 :
+###
 
-### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
+</div>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+###
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Web Development
-- ✨ Machine Learning
-- ✨ Deep Learning
-
-### - Hobbies : 
-- ✨ PC Gaming
-- ✨ Watching Anime
-- ✨ Chess
-
-</br>
-</br>
-</br>
-
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="Machine Learning" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</p>
-</br>
-</br>
-</br>
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:rithu9672@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/rithik-chandrasekar-82a521220/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Rithik20041-xX&&show_icons=true&theme=radical"/>
+<div align="left">
+  <a href="https://www.instagram.com/rithik._.rithu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  </p>
+  <a href="rithu9672@gmail.com " target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rithik-chandrasekar-82a521220/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-*************
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation" />
+
+###
