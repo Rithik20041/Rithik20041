@@ -11,19 +11,20 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Web Development
+- ✨ Machine Learning
+- ✨ Deep Learning
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ PC Gaming
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Chess
 
 </br>
 </br>
@@ -41,7 +42,7 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+<img src="https://www.google.com/imgres?q=machine%20learning&imgurl=https%3A%2F%2Fxiengineering.com%2Fwp-content%2Fuploads%2F2023%2F10%2FAdobeStock_519767884-1-scaled.jpeg&imgrefurl=https%3A%2F%2Fxiengineering.com%2Fmachine-learning-fundamentals-applications-and-expert-insight%2F&docid=9ykEzUfQ-6dOkM&tbnid=L3ExljLHK7UGlM&vet=12ahUKEwiHurabiaeLAxUTUGwGHVESD0MQM3oFCIQBEAA..i&w=2560&h=1630&hcb=2&ved=2ahUKEwiHurabiaeLAxUTUGwGHVESD0MQM3oFCIQBEAA" alt="datascience" width="180" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
