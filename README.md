@@ -41,10 +41,8 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://www.google.com/imgres?q=machine%20learning&imgurl=https%3A%2F%2Fxiengineering.com%2Fwp-content%2Fuploads%2F2023%2F10%2FAdobeStock_519767884-1-scaled.jpeg&imgrefurl=https%3A%2F%2Fxiengineering.com%2Fmachine-learning-fundamentals-applications-and-expert-insight%2F&docid=9ykEzUfQ-6dOkM&tbnid=L3ExljLHK7UGlM&vet=12ahUKEwiHurabiaeLAxUTUGwGHVESD0MQM3oFCIQBEAA..i&w=2560&h=1630&hcb=2&ved=2ahUKEwiHurabiaeLAxUTUGwGHVESD0MQM3oFCIQBEAA" alt="datascience" width="180" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="Machine Learning" width="180" hight="50">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
@@ -65,10 +63,10 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
+<a href="mailto:rithu9672@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+<a href="https://www.linkedin.com/in/rithik-chandrasekar-82a521220/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
@@ -79,7 +77,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Rithik20041-xX&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
