@@ -59,6 +59,6 @@
 
 <p align="center">
   <a href="https://leetcode.com/rithu9672" target="_blank">
-    <img title="rashmi2004's LeetCode Stats" alt="rashmi2004's LeetCode Stats" src="https://leetcard.jacoblin.cool/rithu9672?ext=heatmap" />
+    <img title="rithik's's LeetCode Stats" alt="rashmi2004's LeetCode Stats" src="https://leetcard.jacoblin.cool/rithu9672?ext=heatmap" />
   </a>
 </p>
