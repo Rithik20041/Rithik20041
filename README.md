@@ -1,148 +1,222 @@
-<h1 align="center">Rithik Chandrasekar</h1>
+<h1 align="center">Hi 👋 I'm Rithik Chandrasekar</h1>
 
 <p align="center">
-  AI Engineer · M.Tech in Artificial Intelligence · Building with LLMs, and shipping full-stack.
+  AI Engineer • M.Tech in Artificial Intelligence • Building Intelligent Systems with Machine Learning, LLMs & Full-Stack Development
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/RITHIK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:RITHIK_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/RITHIK_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <img src="https://komarev.com/ghpvc/?username=RITHIK_USERNAME&style=flat-square&color=blue&label=Profile+views" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/rithik-chandrasekar-82a521220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rithu9672@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/rithu9672/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rithik20041&style=flat-square&color=blue&label=Profile+Views"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Artificial+Intelligence+Student;LLM+%7C+RAG+Developer;Full-Stack+Developer;Always+Learning+Something+New"/>
 </p>
 
 ---
 
-### About
+# 👨‍💻 About Me
 
-I'm an AI engineer who likes the unglamorous parts: cleaning data, reading papers twice,
-and figuring out why the model works better on Tuesday. Right now I spend most of my time
-on LLM applications — retrieval, evaluation, and making things fast enough to actually use.
+I'm an AI engineer passionate about building intelligent systems that solve real-world problems. I enjoy working across the entire AI workflow—from data preparation and model development to deployment and evaluation.
 
-- Focus: machine learning, deep learning, generative AI
-- Learning: LLMs, RAG, computer vision, system design
-- Habit: a few DSA problems most days — it keeps the fundamentals sharp
-- Also comfortable end-to-end on the web side, from API to UI
+My current interests include **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Deep Learning, Computer Vision, and Full-Stack Development.**
+
+- 🎓 M.Tech in Artificial Intelligence
+- 🤖 Passionate about AI & Machine Learning
+- 📚 Learning LLMs, RAG, System Design & Advanced Deep Learning
+- 💻 Full-Stack Developer
+- 🧩 Solving Data Structures & Algorithms regularly
+- 🚀 Always building and learning
 
 ```text
-Code · Learn · Build · Repeat
+Code • Learn • Build • Repeat
 ```
 
 ---
 
-### What I'm working on
+# 🚀 Current Focus
 
-| Area | Currently |
-| --- | --- |
-| LLMs & RAG | Chunking strategies, hybrid retrieval, evaluation harnesses |
-| Deep Learning | Vision models, transfer learning, fine-tuning workflows |
-| Engineering | Clean APIs, typed frontends, deployments that don't page me at 2am |
-| DSA | Graphs and dynamic programming — the two that fight back |
+| Area | Exploring |
+|------|-----------|
+| 🤖 LLMs | Prompt Engineering, RAG, Vector Databases |
+| 🧠 Deep Learning | CNNs, Transfer Learning, Fine-tuning |
+| 💻 Software Engineering | APIs, Backend Systems, Clean Architecture |
+| 📚 DSA | Graphs, Trees, Dynamic Programming |
 
 ---
 
-### Tech Stack
+# 💻 Tech Stack
 
-**Languages**
+## Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,html,css" />
+</p>
 
-**ML & AI**
+## AI / ML
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="center">
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-### GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RITHIK_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITHIK_USERNAME&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITHIK_USERNAME&hide_border=true" alt="GitHub streak" />
-</p>
+## Frameworks & Tools
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RITHIK_USERNAME&hide_border=true&area=true" alt="Contribution graph" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase,flask,docker,git,github,linux,vscode,postman" />
 </p>
 
 ---
 
-### LeetCode
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/RITHIK_LEETCODE?theme=light&font=Karla&ext=heatmap" alt="LeetCode stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rithik20041&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithik20041&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
 
-### Contribution Snake
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RITHIK_USERNAME/RITHIK_USERNAME/output/snake.svg" alt="Contribution snake" />
+<img src="https://streak-stats.demolab.com?user=Rithik20041&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RITHIK_USERNAME&column=7&margin-w=8&no-frame=true&theme=flat" alt="GitHub trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithik20041&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rithik20041&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </p>
 
 ---
 
-<details>
-<summary><b>Things I believe about building software</b></summary>
+# 📋 GitHub Profile Summary
 
-<br />
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rithik20041&theme=tokyonight"/>
+</p>
 
-- A simple model you understand beats a complex one you don't.
-- Evaluation before optimisation. Always.
-- If it isn't reproducible, it didn't happen.
-- Write the README first — it forces the design to make sense.
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rithik20041&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rithik20041&theme=tokyonight"/>
+</p>
 
-</details>
-
-<details>
-<summary><b>Currently reading / watching</b></summary>
-
-<br />
-
-- Papers on retrieval-augmented generation and long-context evaluation
-- Designing Data-Intensive Applications (slowly, on purpose)
-- Anything that explains attention better than the last thing I read
-
-</details>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rithik20041&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rithik20041&theme=tokyonight&utcOffset=5.5"/>
+</p>
 
 ---
 
+# 💡 LeetCode
+
 <p align="center">
-  Open to conversations about AI engineering, research, or a good DSA problem.
-  <br />
-  <sub>Thanks for stopping by.</sub>
+<a href="https://leetcode.com/u/rithu9672/">
+<img src="https://leetcard.jacoblin.cool/rithu9672?theme=dark&font=Baloo&ext=heatmap"/>
+</a>
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+# 📈 GitHub Metrics
+
+<p align="center">
+<img src="https://metrics.lecoq.io/Rithik20041?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&isocalendar=1&languages=1&introduction=1&people=1&achievements=1"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rithik-chandrasekar-82a521220/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:rithu9672@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/rithu9672/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Rithik20041">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rithik20041&style=for-the-badge&color=0E75B6"/>
+</p>
+
+---
+
+<div align="center">
+
+## 💭 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*Building intelligent systems, one commit at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+
+</div>
