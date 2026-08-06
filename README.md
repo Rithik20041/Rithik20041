@@ -1,222 +1,127 @@
-<h1 align="center">Hi 👋 I'm Rithik Chandrasekar</h1>
+<h1 align="center">Hi 👋, I'm Rithik Chandrasekar</h1> 
+<h3 align="center">Passionate Curiosity-Driven Learner</h3>
 
 <p align="center">
-  AI Engineer • M.Tech in Artificial Intelligence • Building Intelligent Systems with Machine Learning, LLMs & Full-Stack Development
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rithik-chandrasekar-82a521220/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishnus1793&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
   </a>
-  <a href="mailto:rithu9672@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</p>
+
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20more%20I%20read,%20the%20more%20I%20learn,%20and%20the%20more%20I%20learn,%20the%20more%20I%20realize%20I%20know%20nothing.%20-%20Fyodor%20Dostoevsky)](https://github.com/piyushsuthar/github-readme-quotes?quote="The%20more%20I%20read,%20the%20more%20I%20learn,%20and%20the%20more%20I%20learn,%20the%20more%20I%20realize%20I%20know%20nothing.%20-%20Fyodor%20Dostoevsky")
+
+---
+
+## 🛠️ Languages and Tools
+
+### 💻 Programming Languages  
+<p>  
+  <a href="https://www.python.org/doc/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>  
+  <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>  
+</p>  
+
+### 🌐 Frontend Development  
+<p>  
+  <a href="https://react.dev/learn"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>  
+  <a href="https://help.figma.com/hc/en-us"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>  
+</p>  
+
+### 🛠 Backend & Databases  
+<p>  
+  <a href="https://nodejs.org/en/docs/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>  
+  <a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>  
+  <a href="https://github.com/vishnus1793/Obsidian_Notes/blob/main/MySql.md"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <a href="https://github.com/vishnus1793/Obsidian_Notes/blob/main/AWS.md"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="https://github.com/vishnus1793/Obsidian_Notes/blob/main/Docker.md"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+</p>
+
+### ⚡ AI & Data Science  
+<p>  
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>  
+  <a href="https://pytorch.org/docs/stable/index.html"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>  
+    <a href="https://scikit-learn.org/stable/index.html"><img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>  
+</p> 
+
+### 🚀 Hosting Platforms  
+<p>  
+  <a href="https://render.com/docs"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>  
+  <a href="https://vercel.com/docs"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>  
+  <a href="https://docs.streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>  
+  <a href="https://localxpose.io/docs"><img src="https://img.shields.io/badge/LocalXpose-1D2D50?style=for-the-badge&logo=localxpose&logoColor=white" /></a>  
+</p>
+
+### 🔑 Tools 
+<p><a href="https://bitwarden.com/">
+  <img src="https://camo.githubusercontent.com/ff98cdc123c03716521aa80f6a8092a16e0596325b0dd1ad80547f9ccc45046a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62697477617264656e2d2532333137354444432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d62697477617264656e266c6f676f436f6c6f723d7768697465" /></a>
+
+</p>
+
+## Flexing as a Programmer 🚀  
+Grinding code, solving problems, and building cool stuff!  
+
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rithik20041&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<<img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation" /> 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rithik20041&color=green" alt="Rithik's Profile View Count">
+</p>
+
+
+
+
+
+## Leetcode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/rithu9672" target="_blank">
+    <img title="LeetCode Stats" alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/rithu9672?ext=heatmap" />
   </a>
-  <a href="https://leetcode.com/u/rithu9672/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Rithik20041&style=flat-square&color=blue&label=Profile+Views"/>
 </p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Artificial+Intelligence+Student;LLM+%7C+RAG+Developer;Full-Stack+Developer;Always+Learning+Something+New"/>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-I'm an AI engineer passionate about building intelligent systems that solve real-world problems. I enjoy working across the entire AI workflow—from data preparation and model development to deployment and evaluation.
-
-My current interests include **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Deep Learning, Computer Vision, and Full-Stack Development.**
-
-- 🎓 M.Tech in Artificial Intelligence
-- 🤖 Passionate about AI & Machine Learning
-- 📚 Learning LLMs, RAG, System Design & Advanced Deep Learning
-- 💻 Full-Stack Developer
-- 🧩 Solving Data Structures & Algorithms regularly
-- 🚀 Always building and learning
-
-```text
-Code • Learn • Build • Repeat
-```
-
----
-
-# 🚀 Current Focus
-
-| Area | Exploring |
-|------|-----------|
-| 🤖 LLMs | Prompt Engineering, RAG, Vector Databases |
-| 🧠 Deep Learning | CNNs, Transfer Learning, Fine-tuning |
-| 💻 Software Engineering | APIs, Backend Systems, Clean Architecture |
-| 📚 DSA | Graphs, Trees, Dynamic Programming |
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,html,css" />
-</p>
-
-## AI / ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<p align="center">
-
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-</p>
-
-## Frameworks & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase,flask,docker,git,github,linux,vscode,postman" />
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rithik20041&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithik20041&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Rithik20041&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithik20041&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rithik20041&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
-
----
-
-# 📋 GitHub Profile Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rithik20041&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rithik20041&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rithik20041&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rithik20041&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rithik20041&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
----
-
-# 💡 LeetCode
-
-<p align="center">
-<a href="https://leetcode.com/u/rithu9672/">
-<img src="https://leetcard.jacoblin.cool/rithu9672?theme=dark&font=Baloo&ext=heatmap"/>
-</a>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-# 📈 GitHub Metrics
-
-<p align="center">
-<img src="https://metrics.lecoq.io/Rithik20041?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&isocalendar=1&languages=1&introduction=1&people=1&achievements=1"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rithik-chandrasekar-82a521220/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:rithu9672@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/rithu9672/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Rithik20041">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rithik20041&style=for-the-badge&color=0E75B6"/>
-</p>
-
----
 
 <div align="center">
 
-## 💭 Favorite Quote
+  
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
-
-</div>
-
----
+## 🎵 Spotify & 🎴 Anime Journey
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<table>
+<tr>
 
-*Building intelligent systems, one commit at a time.*
+<!-- 🎧 LEFT SIDE: SPOTIFY -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+<h3>🎧 Now Playing</h3>
+
+<<h2 align="center">🎵 Spotify</h2>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" />
+  </a>
+</p>
+
+<p><sub>Live Spotify • Works Offline</sub></p>
+
+
+
+<br><br>
+
+
+
+
+</td>
+
+</tr>
+</table>
 
 </div>
