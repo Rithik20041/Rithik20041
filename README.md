@@ -1,64 +1,124 @@
-<h2 align="left">Hi 👋! My name is Rithik Chandrasekar and I'm a Passionate Machine Learning Engineer, from Kerala</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rithik20041&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithik20041&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+# Hi 👋 I'm Rithik Chandrasekar
+
+### AI Engineer • Machine Learning Enthusiast • Full-Stack Developer • DSA Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Artificial+Intelligence+Student;Full-Stack+Developer;LeetCode+Enthusiast;Always+Learning+Something+New" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+## 👨‍💻 About Me
 
-###
+- 🎓 M.Tech in Artificial Intelligence
+- 🧠 Interested in Machine Learning, Deep Learning & Generative AI
+- 💻 Building strong foundations in Software Engineering
+- 🌱 Currently learning LLMs, RAG and System Design
+- 📚 Solving Data Structures & Algorithms regularly
+- ⚡ Always curious to learn new technologies
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
-</div>
+---
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/rithik._.rithu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="rithu9672@gmail.com " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rithik-chandrasekar-82a521220/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation" />
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://leetcode.com/rithu9672" target="_blank">
-    <img title="rithik's's LeetCode Stats" alt="rashmi2004's LeetCode Stats" src="https://leetcard.jacoblin.cool/rithu9672?ext=heatmap" />
-  </a>
+<a href="https://www.linkedin.com/in/rithik-chandrasekar-82a521220">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:rithu9672@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/rithik._.rithu/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 </p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,flask,tensorflow,pytorch" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rithik20041&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithik20041&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Rithik20041&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithik20041&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rithik20041&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 💡 LeetCode
+
+<p align="center">
+<a href="https://leetcode.com/u/rithu9672/">
+<img src="https://leetcard.jacoblin.cool/rithu9672?theme=dark&font=Baloo&ext=heatmap"/>
+</a>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rithik20041&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Improve. Repeat."*
+
+</div>
