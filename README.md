@@ -1,127 +1,199 @@
-<h1 align="center">Hi 👋, I'm Rithik Chandrasekar</h1> 
-<h3 align="center">Passionate Curiosity-Driven Learner</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishnus1793&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
-  </a>
-</p>
-
-
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20more%20I%20read,%20the%20more%20I%20learn,%20and%20the%20more%20I%20learn,%20the%20more%20I%20realize%20I%20know%20nothing.%20-%20Fyodor%20Dostoevsky)](https://github.com/piyushsuthar/github-readme-quotes?quote="The%20more%20I%20read,%20the%20more%20I%20learn,%20and%20the%20more%20I%20learn,%20the%20more%20I%20realize%20I%20know%20nothing.%20-%20Fyodor%20Dostoevsky")
-
----
-
-## 🛠️ Languages and Tools
-
-### 💻 Programming Languages  
-<p>  
-  <a href="https://www.python.org/doc/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>  
-  <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>  
-</p>  
-
-### 🌐 Frontend Development  
-<p>  
-  <a href="https://react.dev/learn"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>  
-  <a href="https://help.figma.com/hc/en-us"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>  
-</p>  
-
-### 🛠 Backend & Databases  
-<p>  
-  <a href="https://nodejs.org/en/docs/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>  
-  <a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>  
-  <a href="https://github.com/vishnus1793/Obsidian_Notes/blob/main/MySql.md"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <a href="https://github.com/vishnus1793/Obsidian_Notes/blob/main/AWS.md"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-  <a href="https://github.com/vishnus1793/Obsidian_Notes/blob/main/Docker.md"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-</p>
-
-### ⚡ AI & Data Science  
-<p>  
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>  
-  <a href="https://pytorch.org/docs/stable/index.html"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>  
-    <a href="https://scikit-learn.org/stable/index.html"><img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>  
-</p> 
-
-### 🚀 Hosting Platforms  
-<p>  
-  <a href="https://render.com/docs"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>  
-  <a href="https://vercel.com/docs"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>  
-  <a href="https://docs.streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>  
-  <a href="https://localxpose.io/docs"><img src="https://img.shields.io/badge/LocalXpose-1D2D50?style=for-the-badge&logo=localxpose&logoColor=white" /></a>  
-</p>
-
-### 🔑 Tools 
-<p><a href="https://bitwarden.com/">
-  <img src="https://camo.githubusercontent.com/ff98cdc123c03716521aa80f6a8092a16e0596325b0dd1ad80547f9ccc45046a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62697477617264656e2d2532333137354444432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d62697477617264656e266c6f676f436f6c6f723d7768697465" /></a>
-
-</p>
-
-## Flexing as a Programmer 🚀  
-Grinding code, solving problems, and building cool stuff!  
-
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rithik20041&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<<img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation" /> 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rithik20041&color=green" alt="Rithik's Profile View Count">
-</p>
-
-
-
-
-
-## Leetcode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/rithu9672" target="_blank">
-    <img title="LeetCode Stats" alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/rithu9672?ext=heatmap" />
-  </a>
-</p>
-
 <div align="center">
 
-  
+# Hi, I'm Rithik Chandrasekar 👋
 
-## 🎵 Spotify & 🎴 Anime Journey
+### AI Engineer • Machine Learning • Generative AI • Full-Stack Development
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=M.Tech+in+Artificial+Intelligence;Machine+Learning+%7C+Deep+Learning;Large+Language+Models+%26+RAG;Computer+Vision+Engineer;Full-Stack+Developer;Data+Structures+%26+Algorithms)](https://git.io/typing-svg)
 
-<table>
-<tr>
+<br>
 
-<!-- 🎧 LEFT SIDE: SPOTIFY -->
+<a href="https://www.linkedin.com/in/rithik-chandrasekar-82a521220/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h3>🎧 Now Playing</h3>
+<a href="mailto:rithu9672@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<<h2 align="center">🎵 Spotify</h2>
+<a href="https://github.com/Rithik20041">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" />
-  </a>
-</p>
+<a href="https://leetcode.com/u/rithu9672/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-<p><sub>Live Spotify • Works Offline</sub></p>
-
-
+<a href="https://www.instagram.com/rithik._.rithu/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=Rithik20041&style=for-the-badge&color=7aa2f7"/>
 
+</div>
 
+---
 
-</td>
+# About Me
 
-</tr>
-</table>
+I'm currently pursuing **M.Tech in Artificial Intelligence** with a strong interest in building intelligent systems that combine machine learning research with practical software engineering.
+
+- 🤖 Exploring Machine Learning, Deep Learning & Explainable AI
+- 🧠 Learning Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
+- 👁️ Interested in Computer Vision and multimodal AI systems
+- 🌐 Building scalable Full-Stack applications
+- 💻 Regularly solving Data Structures & Algorithms problems
+- 📚 Continuously learning modern AI frameworks and software engineering best practices
+
+---
+
+# Current Focus
+
+| Area | Focus |
+|------|-------|
+| 🤖 AI / Machine Learning | Deep Learning, Model Development, Explainability |
+| 🧠 LLMs & RAG | LangChain, Hugging Face, Retrieval Systems |
+| 💻 Software Engineering | Backend APIs, Full-Stack Development, Clean Architecture |
+| ⚡ DSA | Problem Solving, Competitive Programming, Interview Preparation |
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,mysql"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,opencv,numpy,pandas,langchain,huggingface"/>
+</p>
+
+### Frameworks & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,mongodb,firebase,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
+</p>
+
+---
+
+# GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rithik20041&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithik20041&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithik20041&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rithik20041&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rithik20041&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rithik20041&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rithik20041&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rithik20041&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rithik20041&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rithik20041&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/rithu9672?theme=dark&font=Inter&ext=heatmap"/>
+
+</div>
+
+---
+
+# Spotify — Now Playing
+
+<div align="center">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=7aa2f7&bar_color_cover=false"/>
+</a>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Building intelligent systems through continuous learning, curiosity, and disciplined engineering."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer"/>
 
 </div>
