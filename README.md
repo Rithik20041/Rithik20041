@@ -4,7 +4,7 @@
 
 ### AI Engineer • Machine Learning Enthusiast • Full-Stack Developer • DSA Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Artificial+Intelligence+Student;Full-Stack+Developer;LeetCode+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Artificial+Intelligence+Student;Full-Stack+Developer;LeetCode+Enthusiast;Always+Learning+Something+New" />
 
 </div>
 
@@ -13,11 +13,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 M.Tech in Artificial Intelligence
-- 🧠 Interested in Machine Learning, Deep Learning & Generative AI
-- 💻 Building strong foundations in Software Engineering
-- 🌱 Currently learning LLMs, RAG and System Design
+- 🧠 Passionate about Machine Learning, Deep Learning & Generative AI
+- 💻 Full-Stack Developer
+- 🌱 Currently learning LLMs, RAG, Computer Vision & System Design
 - 📚 Solving Data Structures & Algorithms regularly
-- ⚡ Always curious to learn new technologies
+- ⚡ Always exploring new technologies
 
 ---
 
@@ -25,15 +25,15 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rithik-chandrasekar-82a521220">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:rithu9672@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/rithik._.rithu/">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 </p>
 
@@ -64,11 +64,8 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rithik20041&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithik20041&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -107,6 +104,14 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 # 👀 Profile Views
 
 <p align="center">
@@ -119,6 +124,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Improve. Repeat."*
+*"Code • Learn • Build • Repeat"*
 
 </div>
