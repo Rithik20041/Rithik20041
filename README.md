@@ -178,14 +178,28 @@ I'm currently pursuing **M.Tech in Artificial Intelligence** with a strong inter
 
 ---
 
+---
+
 # Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
-
 ---
 
 <div align="center">
