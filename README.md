@@ -96,9 +96,7 @@ I'm currently pursuing **M.Tech in Artificial Intelligence** with a strong inter
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rithik20041&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithik20041&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -122,7 +120,7 @@ I'm currently pursuing **M.Tech in Artificial Intelligence** with a strong inter
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rithik20041&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=6"/>
+
 
 </div>
 
@@ -166,17 +164,6 @@ I'm currently pursuing **M.Tech in Artificial Intelligence** with a strong inter
 
 ---
 
-# Spotify — Now Playing
-
-<div align="center">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=7aa2f7&bar_color_cover=false"/>
-</a>
-
-</div>
-
----
 
 ---
 
